@@ -1,0 +1,1267 @@
+=== Starting daily brief at 2026年 03月 12日 星期四 07:00:01 CST ===
+Error fetching news data
+=== Starting daily brief at 2026年 03月 12日 星期四 07:25:31 CST ===
+Running spider...
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-12 07:25:32
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（最新数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（最新数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月12日/txt/07时26分.txt
+当日汇总模式：处理 807 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月12日/html/07时26分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 807 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 807 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月12日/html/当日汇总.html
+ntfy消息分为 9 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 9/9 批次（推送顺序: 1/9），大小：3498 字节 [当日汇总]
+ntfy第 9/9 批次发送成功 [当日汇总]
+发送ntfy第 8/9 批次（推送顺序: 2/9），大小：3727 字节 [当日汇总]
+ntfy第 8/9 批次发送成功 [当日汇总]
+发送ntfy第 7/9 批次（推送顺序: 3/9），大小：3620 字节 [当日汇总]
+ntfy第 7/9 批次发送成功 [当日汇总]
+发送ntfy第 6/9 批次（推送顺序: 4/9），大小：3596 字节 [当日汇总]
+ntfy第 6/9 批次发送成功 [当日汇总]
+发送ntfy第 5/9 批次（推送顺序: 5/9），大小：3696 字节 [当日汇总]
+ntfy第 5/9 批次发送成功 [当日汇总]
+发送ntfy第 4/9 批次（推送顺序: 6/9），大小：3689 字节 [当日汇总]
+ntfy第 4/9 批次发送成功 [当日汇总]
+发送ntfy第 3/9 批次（推送顺序: 7/9），大小：3741 字节 [当日汇总]
+ntfy第 3/9 批次发送成功 [当日汇总]
+发送ntfy第 2/9 批次（推送顺序: 8/9），大小：3647 字节 [当日汇总]
+ntfy第 2/9 批次发送成功 [当日汇总]
+发送ntfy第 1/9 批次（推送顺序: 9/9），大小：3674 字节 [当日汇总]
+ntfy第 1/9 批次发送成功 [当日汇总]
+ntfy所有 9 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月12日/html/当日汇总.html
+Spider completed
+News data fetched successfully
+TypeError: fetch failed
+=== Daily brief completed at 2026年 03月 12日 星期四 07:29:35 CST ===
+=== Starting daily brief at 2026年 03月 13日 星期五 07:01:29 CST ===
+Running spider...
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-13 07:01:30
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（最新数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（最新数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（最新数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（最新数据）
+获取 bilibili-hot-search 成功（最新数据）
+获取 tieba 成功（最新数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（最新数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（最新数据）
+获取 producthunt 成功（最新数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月13日/txt/07时02分.txt
+当日汇总模式：处理 812 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月13日/html/07时02分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 812 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 812 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月13日/html/当日汇总.html
+ntfy消息分为 8 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 8/8 批次（推送顺序: 1/8），大小：1477 字节 [当日汇总]
+ntfy第 8/8 批次发送成功 [当日汇总]
+发送ntfy第 7/8 批次（推送顺序: 2/8），大小：3683 字节 [当日汇总]
+ntfy第 7/8 批次发送成功 [当日汇总]
+发送ntfy第 6/8 批次（推送顺序: 3/8），大小：3641 字节 [当日汇总]
+ntfy第 6/8 批次发送成功 [当日汇总]
+发送ntfy第 5/8 批次（推送顺序: 4/8），大小：3517 字节 [当日汇总]
+ntfy第 5/8 批次发送成功 [当日汇总]
+发送ntfy第 4/8 批次（推送顺序: 5/8），大小：3619 字节 [当日汇总]
+ntfy第 4/8 批次发送成功 [当日汇总]
+发送ntfy第 3/8 批次（推送顺序: 6/8），大小：3564 字节 [当日汇总]
+ntfy第 3/8 批次发送成功 [当日汇总]
+发送ntfy第 2/8 批次（推送顺序: 7/8），大小：3721 字节 [当日汇总]
+ntfy第 2/8 批次发送成功 [当日汇总]
+发送ntfy第 1/8 批次（推送顺序: 8/8），大小：3691 字节 [当日汇总]
+ntfy第 1/8 批次发送成功 [当日汇总]
+ntfy所有 8 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月13日/html/当日汇总.html
+Spider completed
+News data fetched successfully
+TypeError: fetch failed
+=== Daily brief completed at 2026年 03月 13日 星期五 07:05:46 CST ===
+=== Starting daily brief at 2026年 03月 13日 星期五 07:33:30 CST ===
+Running spider...
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-13 07:33:31
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（最新数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（最新数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（最新数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（最新数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（最新数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（最新数据）
+获取 douyin 成功（最新数据）
+获取 bilibili-hot-search 成功（最新数据）
+获取 tieba 成功（最新数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（最新数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（最新数据）
+获取 producthunt 成功（最新数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月13日/txt/07时34分.txt
+当日汇总模式：处理 812 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月13日/html/07时34分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 888 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 888 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月13日/html/当日汇总.html
+ntfy消息分为 10 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 10/10 批次（推送顺序: 1/10），大小：1549 字节 [当日汇总]
+ntfy第 10/10 批次发送成功 [当日汇总]
+发送ntfy第 9/10 批次（推送顺序: 2/10），大小：3711 字节 [当日汇总]
+ntfy第 9/10 批次发送成功 [当日汇总]
+发送ntfy第 8/10 批次（推送顺序: 3/10），大小：3615 字节 [当日汇总]
+ntfy第 8/10 批次发送成功 [当日汇总]
+发送ntfy第 7/10 批次（推送顺序: 4/10），大小：3687 字节 [当日汇总]
+ntfy第 7/10 批次发送成功 [当日汇总]
+发送ntfy第 6/10 批次（推送顺序: 5/10），大小：3581 字节 [当日汇总]
+ntfy第 6/10 批次发送成功 [当日汇总]
+发送ntfy第 5/10 批次（推送顺序: 6/10），大小：3730 字节 [当日汇总]
+ntfy第 5/10 批次发送成功 [当日汇总]
+发送ntfy第 4/10 批次（推送顺序: 7/10），大小：3635 字节 [当日汇总]
+ntfy第 4/10 批次发送成功 [当日汇总]
+发送ntfy第 3/10 批次（推送顺序: 8/10），大小：3779 字节 [当日汇总]
+ntfy第 3/10 批次发送成功 [当日汇总]
+发送ntfy第 2/10 批次（推送顺序: 9/10），大小：3651 字节 [当日汇总]
+ntfy第 2/10 批次发送成功 [当日汇总]
+发送ntfy第 1/10 批次（推送顺序: 10/10），大小：3685 字节 [当日汇总]
+ntfy第 1/10 批次发送成功 [当日汇总]
+ntfy所有 10 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月13日/html/当日汇总.html
+Spider completed
+News data fetched successfully
+=== Daily brief completed at 2026年 03月 13日 星期五 07:37:19 CST ===
+=== Starting daily brief at 2026年 03月 13日 星期五 08:08:19 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-13 08:08:20
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（最新数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（最新数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月13日/txt/08时09分.txt
+当日汇总模式：处理 822 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月13日/html/08时09分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 968 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 968 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月13日/html/当日汇总.html
+ntfy消息分为 11 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 11/11 批次（推送顺序: 1/11），大小：2074 字节 [当日汇总]
+ntfy第 11/11 批次发送成功 [当日汇总]
+发送ntfy第 10/11 批次（推送顺序: 2/11），大小：3792 字节 [当日汇总]
+ntfy第 10/11 批次发送成功 [当日汇总]
+发送ntfy第 9/11 批次（推送顺序: 3/11），大小：3711 字节 [当日汇总]
+ntfy第 9/11 批次发送成功 [当日汇总]
+发送ntfy第 8/11 批次（推送顺序: 4/11），大小：3624 字节 [当日汇总]
+ntfy第 8/11 批次发送成功 [当日汇总]
+发送ntfy第 7/11 批次（推送顺序: 5/11），大小：3797 字节 [当日汇总]
+ntfy第 7/11 批次发送成功 [当日汇总]
+发送ntfy第 6/11 批次（推送顺序: 6/11），大小：3578 字节 [当日汇总]
+ntfy第 6/11 批次发送成功 [当日汇总]
+发送ntfy第 5/11 批次（推送顺序: 7/11），大小：3745 字节 [当日汇总]
+ntfy第 5/11 批次发送成功 [当日汇总]
+发送ntfy第 4/11 批次（推送顺序: 8/11），大小：3608 字节 [当日汇总]
+ntfy第 4/11 批次发送成功 [当日汇总]
+发送ntfy第 3/11 批次（推送顺序: 9/11），大小：3608 字节 [当日汇总]
+ntfy第 3/11 批次发送成功 [当日汇总]
+发送ntfy第 2/11 批次（推送顺序: 10/11），大小：3610 字节 [当日汇总]
+ntfy第 2/11 批次发送成功 [当日汇总]
+发送ntfy第 1/11 批次（推送顺序: 11/11），大小：3720 字节 [当日汇总]
+ntfy第 1/11 批次发送成功 [当日汇总]
+ntfy所有 11 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月13日/html/当日汇总.html
+=== Daily brief completed at 2026年 03月 13日 星期五 08:10:21 CST ===
+=== Starting daily brief at 2026年 03月 13日 星期五 17:03:14 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-13 17:03:15
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（最新数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月13日/txt/17时04分.txt
+当日汇总模式：处理 820 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月13日/html/17时04分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 1554 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 1554 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月13日/html/当日汇总.html
+ntfy消息分为 19 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 19/19 批次（推送顺序: 1/19），大小：2536 字节 [当日汇总]
+ntfy第 19/19 批次发送成功 [当日汇总]
+发送ntfy第 18/19 批次（推送顺序: 2/19），大小：3774 字节 [当日汇总]
+ntfy第 18/19 批次发送成功 [当日汇总]
+发送ntfy第 17/19 批次（推送顺序: 3/19），大小：3716 字节 [当日汇总]
+ntfy第 17/19 批次发送成功 [当日汇总]
+发送ntfy第 16/19 批次（推送顺序: 4/19），大小：3731 字节 [当日汇总]
+ntfy第 16/19 批次发送成功 [当日汇总]
+发送ntfy第 15/19 批次（推送顺序: 5/19），大小：3651 字节 [当日汇总]
+ntfy第 15/19 批次发送成功 [当日汇总]
+发送ntfy第 14/19 批次（推送顺序: 6/19），大小：3727 字节 [当日汇总]
+ntfy第 14/19 批次发送成功 [当日汇总]
+发送ntfy第 13/19 批次（推送顺序: 7/19），大小：3695 字节 [当日汇总]
+ntfy第 13/19 批次发送成功 [当日汇总]
+发送ntfy第 12/19 批次（推送顺序: 8/19），大小：3694 字节 [当日汇总]
+ntfy第 12/19 批次发送成功 [当日汇总]
+发送ntfy第 11/19 批次（推送顺序: 9/19），大小：3771 字节 [当日汇总]
+ntfy第 11/19 批次发送成功 [当日汇总]
+发送ntfy第 10/19 批次（推送顺序: 10/19），大小：3675 字节 [当日汇总]
+ntfy第 10/19 批次发送成功 [当日汇总]
+发送ntfy第 9/19 批次（推送顺序: 11/19），大小：3718 字节 [当日汇总]
+ntfy第 9/19 批次发送成功 [当日汇总]
+发送ntfy第 8/19 批次（推送顺序: 12/19），大小：3734 字节 [当日汇总]
+ntfy第 8/19 批次发送成功 [当日汇总]
+发送ntfy第 7/19 批次（推送顺序: 13/19），大小：3785 字节 [当日汇总]
+ntfy第 7/19 批次发送成功 [当日汇总]
+发送ntfy第 6/19 批次（推送顺序: 14/19），大小：3640 字节 [当日汇总]
+ntfy第 6/19 批次发送成功 [当日汇总]
+发送ntfy第 5/19 批次（推送顺序: 15/19），大小：3633 字节 [当日汇总]
+ntfy第 5/19 批次发送成功 [当日汇总]
+发送ntfy第 4/19 批次（推送顺序: 16/19），大小：3790 字节 [当日汇总]
+ntfy第 4/19 批次发送成功 [当日汇总]
+发送ntfy第 3/19 批次（推送顺序: 17/19），大小：3690 字节 [当日汇总]
+ntfy第 3/19 批次发送成功 [当日汇总]
+发送ntfy第 2/19 批次（推送顺序: 18/19），大小：3741 字节 [当日汇总]
+ntfy第 2/19 批次发送成功 [当日汇总]
+发送ntfy第 1/19 批次（推送顺序: 19/19），大小：3646 字节 [当日汇总]
+ntfy第 1/19 批次发送成功 [当日汇总]
+ntfy所有 19 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月13日/html/当日汇总.html
+=== Daily brief completed at 2026年 03月 13日 星期五 17:05:53 CST ===
+=== Starting daily brief at 2026年 03月 14日 星期六 07:00:11 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-14 07:00:12
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（最新数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+请求 mktnews 失败: 500 Server Error: Internal Server Error for url: https://newsnow.busiyi.world/api/s?id=mktnews&latest. 3.77秒后重试...
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+请求 wallstreetcn-hot 失败: 500 Server Error: Internal Server Error for url: https://newsnow.busiyi.world/api/s?id=wallstreetcn-hot&latest. 3.81秒后重试...
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+请求 cls-hot 失败: 500 Server Error: Internal Server Error for url: https://newsnow.busiyi.world/api/s?id=cls-hot&latest. 4.59秒后重试...
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（最新数据）
+获取 tieba 成功（最新数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（最新数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（最新数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（最新数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（最新数据）
+获取 producthunt 成功（最新数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月14日/txt/07时01分.txt
+当日汇总模式：处理 824 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月14日/html/07时01分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 824 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 824 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月14日/html/当日汇总.html
+ntfy消息分为 9 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 9/9 批次（推送顺序: 1/9），大小：2743 字节 [当日汇总]
+ntfy第 9/9 批次发送成功 [当日汇总]
+发送ntfy第 8/9 批次（推送顺序: 2/9），大小：3596 字节 [当日汇总]
+ntfy第 8/9 批次发送成功 [当日汇总]
+发送ntfy第 7/9 批次（推送顺序: 3/9），大小：3669 字节 [当日汇总]
+ntfy第 7/9 批次发送成功 [当日汇总]
+发送ntfy第 6/9 批次（推送顺序: 4/9），大小：3654 字节 [当日汇总]
+ntfy第 6/9 批次发送成功 [当日汇总]
+发送ntfy第 5/9 批次（推送顺序: 5/9），大小：3790 字节 [当日汇总]
+ntfy第 5/9 批次发送成功 [当日汇总]
+发送ntfy第 4/9 批次（推送顺序: 6/9），大小：3723 字节 [当日汇总]
+ntfy第 4/9 批次发送成功 [当日汇总]
+发送ntfy第 3/9 批次（推送顺序: 7/9），大小：3782 字节 [当日汇总]
+ntfy第 3/9 批次发送成功 [当日汇总]
+发送ntfy第 2/9 批次（推送顺序: 8/9），大小：3720 字节 [当日汇总]
+ntfy第 2/9 批次发送成功 [当日汇总]
+发送ntfy第 1/9 批次（推送顺序: 9/9），大小：2871 字节 [当日汇总]
+ntfy第 1/9 批次发送成功 [当日汇总]
+ntfy所有 9 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月14日/html/当日汇总.html
+=== Daily brief completed at 2026年 03月 14日 星期六 07:02:58 CST ===
+=== Starting daily brief at 2026年 03月 14日 星期六 08:19:00 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-14 08:19:01
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（最新数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（最新数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（最新数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月14日/txt/08时19分.txt
+当日汇总模式：处理 794 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月14日/html/08时19分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 953 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 953 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月14日/html/当日汇总.html
+ntfy消息分为 12 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 12/12 批次（推送顺序: 1/12），大小：2143 字节 [当日汇总]
+ntfy第 12/12 批次发送成功 [当日汇总]
+发送ntfy第 11/12 批次（推送顺序: 2/12），大小：3797 字节 [当日汇总]
+ntfy第 11/12 批次发送成功 [当日汇总]
+发送ntfy第 10/12 批次（推送顺序: 3/12），大小：3697 字节 [当日汇总]
+ntfy第 10/12 批次发送成功 [当日汇总]
+发送ntfy第 9/12 批次（推送顺序: 4/12），大小：3593 字节 [当日汇总]
+ntfy第 9/12 批次发送成功 [当日汇总]
+发送ntfy第 8/12 批次（推送顺序: 5/12），大小：3768 字节 [当日汇总]
+ntfy第 8/12 批次发送成功 [当日汇总]
+发送ntfy第 7/12 批次（推送顺序: 6/12），大小：3638 字节 [当日汇总]
+ntfy第 7/12 批次发送成功 [当日汇总]
+发送ntfy第 6/12 批次（推送顺序: 7/12），大小：3788 字节 [当日汇总]
+ntfy第 6/12 批次发送成功 [当日汇总]
+发送ntfy第 5/12 批次（推送顺序: 8/12），大小：3684 字节 [当日汇总]
+ntfy第 5/12 批次发送成功 [当日汇总]
+发送ntfy第 4/12 批次（推送顺序: 9/12），大小：3782 字节 [当日汇总]
+ntfy第 4/12 批次发送成功 [当日汇总]
+发送ntfy第 3/12 批次（推送顺序: 10/12），大小：3733 字节 [当日汇总]
+ntfy第 3/12 批次发送成功 [当日汇总]
+发送ntfy第 2/12 批次（推送顺序: 11/12），大小：3683 字节 [当日汇总]
+ntfy第 2/12 批次发送成功 [当日汇总]
+发送ntfy第 1/12 批次（推送顺序: 12/12），大小：3754 字节 [当日汇总]
+ntfy第 1/12 批次发送成功 [当日汇总]
+ntfy所有 12 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月14日/html/当日汇总.html
+=== Daily brief completed at 2026年 03月 14日 星期六 08:23:06 CST ===
+=== Starting daily brief at 2026年 03月 15日 星期日 07:01:01 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-15 07:01:02
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月15日/txt/07时01分.txt
+当日汇总模式：处理 818 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月15日/html/07时01分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 818 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 818 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月15日/html/当日汇总.html
+ntfy消息分为 7 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 7/7 批次（推送顺序: 1/7），大小：1411 字节 [当日汇总]
+ntfy第 7/7 批次发送成功 [当日汇总]
+发送ntfy第 6/7 批次（推送顺序: 2/7），大小：3718 字节 [当日汇总]
+ntfy第 6/7 批次发送成功 [当日汇总]
+发送ntfy第 5/7 批次（推送顺序: 3/7），大小：3703 字节 [当日汇总]
+ntfy第 5/7 批次发送成功 [当日汇总]
+发送ntfy第 4/7 批次（推送顺序: 4/7），大小：3627 字节 [当日汇总]
+ntfy第 4/7 批次发送成功 [当日汇总]
+发送ntfy第 3/7 批次（推送顺序: 5/7），大小：3652 字节 [当日汇总]
+ntfy第 3/7 批次发送成功 [当日汇总]
+发送ntfy第 2/7 批次（推送顺序: 6/7），大小：3653 字节 [当日汇总]
+ntfy第 2/7 批次发送成功 [当日汇总]
+发送ntfy第 1/7 批次（推送顺序: 7/7），大小：3739 字节 [当日汇总]
+ntfy第 1/7 批次发送成功 [当日汇总]
+ntfy所有 7 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月15日/html/当日汇总.html
+=== Starting daily brief at 2026年 03月 15日 星期日 07:03:54 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-15 07:03:55
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（最新数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（最新数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（最新数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月15日/txt/07时04分.txt
+当日汇总模式：处理 817 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月15日/html/07时04分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 834 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 834 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月15日/html/当日汇总.html
+ntfy消息分为 8 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 8/8 批次（推送顺序: 1/8），大小：1558 字节 [当日汇总]
+ntfy第 8/8 批次发送成功 [当日汇总]
+发送ntfy第 7/8 批次（推送顺序: 2/8），大小：3672 字节 [当日汇总]
+ntfy第 7/8 批次发送成功 [当日汇总]
+发送ntfy第 6/8 批次（推送顺序: 3/8），大小：3740 字节 [当日汇总]
+ntfy第 6/8 批次发送成功 [当日汇总]
+发送ntfy第 5/8 批次（推送顺序: 4/8），大小：3798 字节 [当日汇总]
+ntfy第 5/8 批次发送成功 [当日汇总]
+发送ntfy第 4/8 批次（推送顺序: 5/8），大小：3571 字节 [当日汇总]
+ntfy第 4/8 批次发送成功 [当日汇总]
+发送ntfy第 3/8 批次（推送顺序: 6/8），大小：3785 字节 [当日汇总]
+ntfy第 3/8 批次发送成功 [当日汇总]
+发送ntfy第 2/8 批次（推送顺序: 7/8），大小：3686 字节 [当日汇总]
+ntfy第 2/8 批次发送成功 [当日汇总]
+发送ntfy第 1/8 批次（推送顺序: 8/8），大小：3776 字节 [当日汇总]
+ntfy第 1/8 批次发送成功 [当日汇总]
+ntfy所有 8 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月15日/html/当日汇总.html
+=== Starting daily brief at 2026年 03月 16日 星期一 07:01:00 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-16 07:01:02
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+请求 baidu 失败: 500 Server Error: Internal Server Error for url: https://newsnow.busiyi.world/api/s?id=baidu&latest. 3.75秒后重试...
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（最新数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（最新数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+请求 gelonghui 失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). 4.03秒后重试...
+获取 gelonghui 成功（最新数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（最新数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（最新数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（最新数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月16日/txt/07时02分.txt
+当日汇总模式：处理 824 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月16日/html/07时02分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 824 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 824 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月16日/html/当日汇总.html
+ntfy消息分为 7 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 7/7 批次（推送顺序: 1/7），大小：2921 字节 [当日汇总]
+ntfy第 7/7 批次发送成功 [当日汇总]
+发送ntfy第 6/7 批次（推送顺序: 2/7），大小：3686 字节 [当日汇总]
+ntfy第 6/7 批次发送成功 [当日汇总]
+发送ntfy第 5/7 批次（推送顺序: 3/7），大小：3478 字节 [当日汇总]
+ntfy第 5/7 批次发送成功 [当日汇总]
+发送ntfy第 4/7 批次（推送顺序: 4/7），大小：3682 字节 [当日汇总]
+ntfy第 4/7 批次发送成功 [当日汇总]
+发送ntfy第 3/7 批次（推送顺序: 5/7），大小：3542 字节 [当日汇总]
+ntfy第 3/7 批次发送成功 [当日汇总]
+发送ntfy第 2/7 批次（推送顺序: 6/7），大小：3660 字节 [当日汇总]
+ntfy第 2/7 批次发送成功 [当日汇总]
+发送ntfy第 1/7 批次（推送顺序: 7/7），大小：3729 字节 [当日汇总]
+ntfy第 1/7 批次发送成功 [当日汇总]
+ntfy所有 7 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月16日/html/当日汇总.html
+=== Starting daily brief at 2026年 03月 16日 星期一 07:35:03 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-16 07:35:05
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（缓存数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（最新数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（最新数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（最新数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（最新数据）
+获取 douyin 成功（最新数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月16日/txt/07时35分.txt
+当日汇总模式：处理 814 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月16日/html/07时35分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 903 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 903 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月16日/html/当日汇总.html
+ntfy消息分为 9 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 9/9 批次（推送顺序: 1/9），大小：2122 字节 [当日汇总]
+ntfy第 9/9 批次发送成功 [当日汇总]
+发送ntfy第 8/9 批次（推送顺序: 2/9），大小：3616 字节 [当日汇总]
+ntfy第 8/9 批次发送成功 [当日汇总]
+发送ntfy第 7/9 批次（推送顺序: 3/9），大小：3788 字节 [当日汇总]
+ntfy第 7/9 批次发送成功 [当日汇总]
+发送ntfy第 6/9 批次（推送顺序: 4/9），大小：3698 字节 [当日汇总]
+ntfy第 6/9 批次发送成功 [当日汇总]
+发送ntfy第 5/9 批次（推送顺序: 5/9），大小：3685 字节 [当日汇总]
+ntfy第 5/9 批次发送成功 [当日汇总]
+发送ntfy第 4/9 批次（推送顺序: 6/9），大小：3623 字节 [当日汇总]
+ntfy第 4/9 批次发送成功 [当日汇总]
+发送ntfy第 3/9 批次（推送顺序: 7/9），大小：3716 字节 [当日汇总]
+ntfy第 3/9 批次发送成功 [当日汇总]
+发送ntfy第 2/9 批次（推送顺序: 8/9），大小：3644 字节 [当日汇总]
+ntfy第 2/9 批次发送成功 [当日汇总]
+发送ntfy第 1/9 批次（推送顺序: 9/9），大小：3714 字节 [当日汇总]
+ntfy第 1/9 批次发送成功 [当日汇总]
+ntfy所有 9 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月16日/html/当日汇总.html
+=== Daily brief completed at 2026年 03月 16日 星期一 07:39:55 CST ===
+=== Starting daily brief at 2026年 03月 17日 星期二 07:01:36 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-17 07:01:38
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（缓存数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+请求 wallstreetcn-quick 失败: Response ended prematurely. 3.07秒后重试...
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（缓存数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（缓存数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（缓存数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（最新数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（最新数据）
+获取 producthunt 成功（最新数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月17日/txt/07时02分.txt
+当日汇总模式：处理 841 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月17日/html/07时02分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 841 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 841 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月17日/html/当日汇总.html
+ntfy消息分为 8 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 8/8 批次（推送顺序: 1/8），大小：2850 字节 [当日汇总]
+ntfy第 8/8 批次发送成功 [当日汇总]
+发送ntfy第 7/8 批次（推送顺序: 2/8），大小：3750 字节 [当日汇总]
+ntfy第 7/8 批次发送成功 [当日汇总]
+发送ntfy第 6/8 批次（推送顺序: 3/8），大小：3799 字节 [当日汇总]
+ntfy第 6/8 批次发送成功 [当日汇总]
+发送ntfy第 5/8 批次（推送顺序: 4/8），大小：3772 字节 [当日汇总]
+ntfy第 5/8 批次发送成功 [当日汇总]
+发送ntfy第 4/8 批次（推送顺序: 5/8），大小：3769 字节 [当日汇总]
+ntfy第 4/8 批次发送成功 [当日汇总]
+发送ntfy第 3/8 批次（推送顺序: 6/8），大小：3673 字节 [当日汇总]
+ntfy第 3/8 批次发送成功 [当日汇总]
+发送ntfy第 2/8 批次（推送顺序: 7/8），大小：3765 字节 [当日汇总]
+ntfy第 2/8 批次发送成功 [当日汇总]
+发送ntfy第 1/8 批次（推送顺序: 8/8），大小：3647 字节 [当日汇总]
+ntfy第 1/8 批次发送成功 [当日汇总]
+ntfy所有 8 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月17日/html/当日汇总.html
+=== Daily brief completed at 2026年 03月 17日 星期二 07:05:41 CST ===
+=== Starting daily brief at 2026年 03月 17日 星期二 08:58:19 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-17 08:58:20
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（最新数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（最新数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（缓存数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（最新数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（最新数据）
+获取 github 成功（最新数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（缓存数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（最新数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月17日/txt/08时59分.txt
+当日汇总模式：处理 804 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月17日/html/08时59分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 1108 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 1108 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月17日/html/当日汇总.html
+ntfy消息分为 15 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 15/15 批次（推送顺序: 1/15），大小：1046 字节 [当日汇总]
+ntfy第 15/15 批次发送成功 [当日汇总]
+发送ntfy第 14/15 批次（推送顺序: 2/15），大小：3748 字节 [当日汇总]
+ntfy第 14/15 批次发送成功 [当日汇总]
+发送ntfy第 13/15 批次（推送顺序: 3/15），大小：3790 字节 [当日汇总]
+ntfy第 13/15 批次发送成功 [当日汇总]
+发送ntfy第 12/15 批次（推送顺序: 4/15），大小：3777 字节 [当日汇总]
+ntfy第 12/15 批次发送成功 [当日汇总]
+发送ntfy第 11/15 批次（推送顺序: 5/15），大小：3791 字节 [当日汇总]
+ntfy第 11/15 批次发送成功 [当日汇总]
+发送ntfy第 10/15 批次（推送顺序: 6/15），大小：3694 字节 [当日汇总]
+ntfy第 10/15 批次发送成功 [当日汇总]
+发送ntfy第 9/15 批次（推送顺序: 7/15），大小：3778 字节 [当日汇总]
+ntfy第 9/15 批次发送成功 [当日汇总]
+发送ntfy第 8/15 批次（推送顺序: 8/15），大小：3632 字节 [当日汇总]
+ntfy第 8/15 批次发送成功 [当日汇总]
+发送ntfy第 7/15 批次（推送顺序: 9/15），大小：3623 字节 [当日汇总]
+ntfy第 7/15 批次发送成功 [当日汇总]
+发送ntfy第 6/15 批次（推送顺序: 10/15），大小：3764 字节 [当日汇总]
+ntfy第 6/15 批次发送成功 [当日汇总]
+发送ntfy第 5/15 批次（推送顺序: 11/15），大小：3709 字节 [当日汇总]
+ntfy第 5/15 批次发送成功 [当日汇总]
+发送ntfy第 4/15 批次（推送顺序: 12/15），大小：3725 字节 [当日汇总]
+ntfy第 4/15 批次发送成功 [当日汇总]
+发送ntfy第 3/15 批次（推送顺序: 13/15），大小：3772 字节 [当日汇总]
+ntfy第 3/15 批次发送成功 [当日汇总]
+发送ntfy第 2/15 批次（推送顺序: 14/15），大小：3750 字节 [当日汇总]
+ntfy第 2/15 批次发送成功 [当日汇总]
+发送ntfy第 1/15 批次（推送顺序: 15/15），大小：3708 字节 [当日汇总]
+ntfy第 1/15 批次发送成功 [当日汇总]
+ntfy所有 15 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月17日/html/当日汇总.html
+Loading today's news...
+Sending brief...
+=== Daily brief completed at 2026年 03月 17日 星期二 09:00:06 CST ===
+=== Starting daily brief at 2026年 03月 17日 星期二 09:01:00 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-17 09:01:01
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+请求 zaobao 失败: 500 Server Error: Internal Server Error for url: https://newsnow.busiyi.world/api/s?id=zaobao&latest. 4.25秒后重试...
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+获取 wallstreetcn-hot 成功（最新数据）
+请求 wallstreetcn-quick 失败: Response ended prematurely. 3.04秒后重试...
+获取 wallstreetcn-quick 成功（缓存数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（最新数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+请求 fastbull 失败: Response ended prematurely. 3.34秒后重试...
+获取 fastbull 成功（缓存数据）
+获取 weibo 成功（缓存数据）
+获取 douyin 成功（缓存数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（缓存数据）
+获取 hackernews 成功（最新数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（最新数据）
+获取 nowcoder 成功（最新数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（最新数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月17日/txt/09时02分.txt
+当日汇总模式：处理 804 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月17日/html/09时02分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 1115 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 1115 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月17日/html/当日汇总.html
+ntfy消息分为 13 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 13/13 批次（推送顺序: 1/13），大小：3400 字节 [当日汇总]
+ntfy第 13/13 批次发送成功 [当日汇总]
+发送ntfy第 12/13 批次（推送顺序: 2/13），大小：3616 字节 [当日汇总]
+ntfy第 12/13 批次发送成功 [当日汇总]
+发送ntfy第 11/13 批次（推送顺序: 3/13），大小：3750 字节 [当日汇总]
+ntfy第 11/13 批次发送成功 [当日汇总]
+发送ntfy第 10/13 批次（推送顺序: 4/13），大小：3476 字节 [当日汇总]
+ntfy第 10/13 批次发送成功 [当日汇总]
+发送ntfy第 9/13 批次（推送顺序: 5/13），大小：3730 字节 [当日汇总]
+ntfy第 9/13 批次发送成功 [当日汇总]
+发送ntfy第 8/13 批次（推送顺序: 6/13），大小：3714 字节 [当日汇总]
+ntfy第 8/13 批次发送成功 [当日汇总]
+发送ntfy第 7/13 批次（推送顺序: 7/13），大小：3536 字节 [当日汇总]
+ntfy第 7/13 批次发送成功 [当日汇总]
+发送ntfy第 6/13 批次（推送顺序: 8/13），大小：3678 字节 [当日汇总]
+ntfy第 6/13 批次发送成功 [当日汇总]
+发送ntfy第 5/13 批次（推送顺序: 9/13），大小：3482 字节 [当日汇总]
+ntfy第 5/13 批次发送成功 [当日汇总]
+发送ntfy第 4/13 批次（推送顺序: 10/13），大小：3644 字节 [当日汇总]
+ntfy第 4/13 批次发送成功 [当日汇总]
+发送ntfy第 3/13 批次（推送顺序: 11/13），大小：3782 字节 [当日汇总]
+ntfy第 3/13 批次发送成功 [当日汇总]
+发送ntfy第 2/13 批次（推送顺序: 12/13），大小：3755 字节 [当日汇总]
+ntfy第 2/13 批次发送成功 [当日汇总]
+发送ntfy第 1/13 批次（推送顺序: 13/13），大小：3746 字节 [当日汇总]
+ntfy第 1/13 批次发送成功 [当日汇总]
+ntfy所有 13 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月17日/html/当日汇总.html
+News fetched, preparing brief...
+=== Daily brief completed at 2026年 03月 17日 星期二 09:03:19 CST ===
+=== Starting daily brief at 2026年 03月 17日 星期二 18:00:55 CST ===
+正在加载配置...
+配置文件加载成功: config/config.yaml
+通知渠道配置来源: ntfy(配置文件)
+TrendRadar v3.1.0 配置加载完成
+监控平台数量: 34
+本地环境，未启用代理
+当前北京时间: 2026-03-17 18:00:56
+通知功能已启用，将发送通知
+报告模式: daily
+运行模式: 当日汇总模式（所有匹配新闻 + 新增新闻区域 + 按时推送）
+配置的监控平台: ['今日头条', '百度热搜', '澎湃新闻', '凤凰网', '参考消息', '卫星通讯社', '联合早报', 'MKT新闻', '靠谱新闻', '华尔街见闻 最热', '华尔街见闻 快讯', '华尔街见闻 最新', '财联社热门', '格隆汇', '雪球', '金十数据', '快讯通', '微博', '抖音', 'bilibili 热搜', '贴吧', '知乎', '虎扑', 'IT之家', '掘金', 'GitHub', 'Hacker News', 'Solidot', 'V2EX', '牛客网', '远景论坛', '少数派', 'ProductHunt', '虫部落']
+开始爬取数据，请求间隔 1000 毫秒
+获取 toutiao 成功（最新数据）
+获取 baidu 成功（缓存数据）
+获取 thepaper 成功（最新数据）
+获取 ifeng 成功（最新数据）
+获取 cankaoxiaoxi 成功（最新数据）
+获取 sputniknewscn 成功（缓存数据）
+获取 zaobao 成功（最新数据）
+获取 mktnews 成功（缓存数据）
+获取 kaopu 成功（最新数据）
+请求 wallstreetcn-hot 失败: 500 Server Error: Internal Server Error for url: https://newsnow.busiyi.world/api/s?id=wallstreetcn-hot&latest. 3.15秒后重试...
+获取 wallstreetcn-hot 成功（最新数据）
+获取 wallstreetcn-quick 成功（最新数据）
+获取 wallstreetcn-news 成功（最新数据）
+获取 cls-hot 成功（缓存数据）
+获取 gelonghui 成功（缓存数据）
+获取 xueqiu 成功（缓存数据）
+获取 jin10 成功（缓存数据）
+获取 fastbull 成功（最新数据）
+获取 weibo 成功（最新数据）
+获取 douyin 成功（最新数据）
+获取 bilibili-hot-search 成功（缓存数据）
+获取 tieba 成功（缓存数据）
+获取 zhihu 成功（最新数据）
+获取 hupu 成功（缓存数据）
+获取 ithome 成功（最新数据）
+获取 juejin 成功（缓存数据）
+获取 github 成功（最新数据）
+获取 hackernews 成功（缓存数据）
+获取 solidot 成功（最新数据）
+获取 v2ex 成功（最新数据）
+获取 nowcoder 成功（缓存数据）
+获取 pcbeta 成功（缓存数据）
+获取 sspai 成功（缓存数据）
+获取 producthunt 成功（缓存数据）
+获取 chongbuluo 成功（最新数据）
+成功: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo'], 失败: []
+标题已保存到: output/2026年03月17日/txt/18时02分.txt
+当日汇总模式：处理 822 条新闻，模式：频率词过滤
+HTML报告已生成: output/2026年03月17日/html/18时02分.html
+生成当日汇总报告...
+当前监控平台: ['toutiao', 'baidu', 'thepaper', 'ifeng', 'cankaoxiaoxi', 'sputniknewscn', 'zaobao', 'mktnews', 'kaopu', 'wallstreetcn-hot', 'wallstreetcn-quick', 'wallstreetcn-news', 'cls-hot', 'gelonghui', 'xueqiu', 'jin10', 'fastbull', 'weibo', 'douyin', 'bilibili-hot-search', 'tieba', 'zhihu', 'hupu', 'ithome', 'juejin', 'github', 'hackernews', 'solidot', 'v2ex', 'nowcoder', 'pcbeta', 'sspai', 'producthunt', 'chongbuluo']
+读取到 1674 个标题（已按当前监控平台过滤）
+当日汇总模式：处理 1674 条新闻，模式：频率词过滤
+当日汇总报告已生成: output/2026年03月17日/html/当日汇总.html
+ntfy消息分为 19 批次发送 [当日汇总]
+ntfy将按反向顺序推送（最后批次先推送），确保客户端显示顺序正确
+发送ntfy第 19/19 批次（推送顺序: 1/19），大小：2781 字节 [当日汇总]
+ntfy第 19/19 批次发送成功 [当日汇总]
+发送ntfy第 18/19 批次（推送顺序: 2/19），大小：3786 字节 [当日汇总]
+ntfy第 18/19 批次发送成功 [当日汇总]
+发送ntfy第 17/19 批次（推送顺序: 3/19），大小：3765 字节 [当日汇总]
+ntfy第 17/19 批次发送成功 [当日汇总]
+发送ntfy第 16/19 批次（推送顺序: 4/19），大小：3798 字节 [当日汇总]
+ntfy第 16/19 批次发送成功 [当日汇总]
+发送ntfy第 15/19 批次（推送顺序: 5/19），大小：3678 字节 [当日汇总]
+ntfy第 15/19 批次发送成功 [当日汇总]
+发送ntfy第 14/19 批次（推送顺序: 6/19），大小：3768 字节 [当日汇总]
+ntfy第 14/19 批次发送成功 [当日汇总]
+发送ntfy第 13/19 批次（推送顺序: 7/19），大小：3711 字节 [当日汇总]
+ntfy第 13/19 批次发送成功 [当日汇总]
+发送ntfy第 12/19 批次（推送顺序: 8/19），大小：3650 字节 [当日汇总]
+ntfy第 12/19 批次发送成功 [当日汇总]
+发送ntfy第 11/19 批次（推送顺序: 9/19），大小：3750 字节 [当日汇总]
+ntfy第 11/19 批次发送成功 [当日汇总]
+发送ntfy第 10/19 批次（推送顺序: 10/19），大小：3747 字节 [当日汇总]
+ntfy第 10/19 批次发送成功 [当日汇总]
+发送ntfy第 9/19 批次（推送顺序: 11/19），大小：3726 字节 [当日汇总]
+ntfy第 9/19 批次发送成功 [当日汇总]
+发送ntfy第 8/19 批次（推送顺序: 12/19），大小：3651 字节 [当日汇总]
+ntfy第 8/19 批次发送成功 [当日汇总]
+发送ntfy第 7/19 批次（推送顺序: 13/19），大小：3744 字节 [当日汇总]
+ntfy第 7/19 批次发送成功 [当日汇总]
+发送ntfy第 6/19 批次（推送顺序: 14/19），大小：3783 字节 [当日汇总]
+ntfy第 6/19 批次发送成功 [当日汇总]
+发送ntfy第 5/19 批次（推送顺序: 15/19），大小：3793 字节 [当日汇总]
+ntfy第 5/19 批次发送成功 [当日汇总]
+发送ntfy第 4/19 批次（推送顺序: 16/19），大小：3649 字节 [当日汇总]
+ntfy第 4/19 批次发送成功 [当日汇总]
+发送ntfy第 3/19 批次（推送顺序: 17/19），大小：3724 字节 [当日汇总]
+ntfy第 3/19 批次发送成功 [当日汇总]
+发送ntfy第 2/19 批次（推送顺序: 18/19），大小：3773 字节 [当日汇总]
+ntfy第 2/19 批次发送成功 [当日汇总]
+发送ntfy第 1/19 批次（推送顺序: 19/19），大小：3774 字节 [当日汇总]
+ntfy第 1/19 批次发送成功 [当日汇总]
+ntfy所有 19 批次发送完成 [当日汇总]
+正在打开汇总报告: file:///home/jasonxiej/.openclaw/workspace-scout/trendradar/output/2026年03月17日/html/当日汇总.html
+News data prepared
+=== Daily brief completed at 2026年 03月 17日 星期二 18:06:24 CST ===
